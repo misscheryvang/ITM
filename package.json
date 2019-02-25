@@ -1,0 +1,18 @@
+{
+    "name": "code-challenge",
+    "version": "1.0.0",
+    "description": "Code challenge for ITM21st software engineering candidates",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "author": "ITM21st",
+    "license": "UNLICENCED",
+    "repository": {
+        "type": "git",
+        "url": "https://bitbucket.org/twentyfirst/code-challenge"
+    },
+    "dependencies": {
+        "express": "^4.16.3"
+    }
+}
